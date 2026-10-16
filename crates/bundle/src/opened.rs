@@ -1,1 +1,1 @@
-$(cat /tmp/krate/crates/bundle/src/opened.rs)
+PLACEHOLDER_CONTENT
